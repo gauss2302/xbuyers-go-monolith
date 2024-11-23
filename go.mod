@@ -1,0 +1,1 @@
+module xbuyers-go-monolith
